@@ -2,7 +2,7 @@ Nevezetességek gyűjtése
 Python program elkezdése: fájlbeolvasás
 Menürendszer készítése:
 1.Nevezetességekből választani és információkat kiírni róla (a fájlban tárolt nevezetességek listája kikerül a képernyőre, az alapján tud választani a felhasználó)
-2.A felhasználótól bekért keletkezési idő alapján meghatározni, hogy milyen nevezetességek vannak, vagy esetleg nincs ilyen a fájlban
+2.A felhasználótól bekért országnév alapján meghatározni, hogy milyen nevezetességek vannak, vagy esetleg nincs ilyen a fájlban
 3.A felhasználótól bekért országnév alapján meghatározni, hogy milyen nevezetességek vannak, vagy esetleg nincs ilyen a fájlban
 
 Fejlesztés:
