@@ -17,7 +17,7 @@ def f2(label):
     for i in range(len(adatok)):
         nev = adatok[i][0]
         if(orszagnev == adatok):
-            print(adaok[i][0], adaok[i][1], adaok[i][2],)
+            print(adatok[i][0], adatok[i][1], adatok[i][2],)
             
       
     
